@@ -1,0 +1,6 @@
+-- Pro Bofing Database Schema-
+-- Players
+-- Villages
+-- Buildings
+-- Troops
+-- Clans
